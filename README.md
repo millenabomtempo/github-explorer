@@ -1,24 +1,26 @@
 # GitHub Explorer
+![Badge](https://img.shields.io/badge/since-2021-blue?style=flat-square)
+![Badge](https://img.shields.io/badge/status-em%20progresso-blue?style=flat-square)
 
-Aplicação que lê os repositórios da organização Rocketseat e mostra em tela o nome, descrição e link para acessar cada repositório.  
+## About
 
-App criado na trilha de React do curso Ignite da Rocketseat.
+Application that reads Rocketseat organization repositories and displays the name, description and link to access each repository on the screen.
+App created at Rocketseat's Ignite course.
 
-### 💻 Download do projeto
+## :computer: How to run
 
 ```bash
-# Clonar repositório em sua maquina
+# Clone repository into your machine
 $ git clone https://github.com/millenabomtempo/github-explorer.git
-```
 
-### 💻 Rodando o projeto
-
-```bash
-# Instalando as dependencias
+# Install dependencies
 $ yarn install or npm install
 
-# Rodando a aplicação
+# Run application
 $ yarn dev or npm run dev
+
+# The aplication will init at port:8080 - access http://localhost:8080/
 ```
 
-Projeto roda em http://localhost:8080/.
+<p align="center"> Made with :heart: to all my fellows nerds.</p>
+<p align="center"><a href="https://github.com/millenabomtempo">Millena Bomtempo</a></p>
